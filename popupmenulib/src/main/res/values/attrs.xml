@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="PopupMenu">
+        <attr name="popup_direction">
+            <enum name="up" value="0" />
+            <enum name="down" value="1" />
+        </attr>
+        <attr name="menu_item_width" format="dimension"/>
+        <attr name="menu_item_height" format="dimension"/>
+    </declare-styleable>
+</resources>
